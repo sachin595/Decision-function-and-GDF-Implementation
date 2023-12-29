@@ -18,4 +18,6 @@ Conclusion:
 The perceptron algorithm is effective for linearly separable data but shows limitations for non-linearly separable cases, emphasizing the need for advanced techniques in such scenarios.
 The introduction of GDFs allows for the representation of decision boundaries beyond linear relationships, offering flexibility in capturing more intricate patterns in the data.
 Observations of weight variations highlight the sensitivity of decision functions to individual weights, underscoring the importance of careful weight tuning in achieving optimal model performance.
+
+
 In conclusion, this project provides a comprehensive exploration of decision functions, from the basic perceptron algorithm to the more versatile generalized decision functions, shedding light on their strengths, limitations, and sensitivity to weight variations in different dimensional spaces.
